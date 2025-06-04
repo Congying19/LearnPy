@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.运算符">
+  <component name="RunManager" selected="Python.eval函数">
     <configuration name="查询保留字" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py0602" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,10 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.运算符" />
         <item itemvalue="Python.eval函数" />
-        <item itemvalue="Python.数据类型" />
-        <item itemvalue="Python.变量" />
         <item itemvalue="Python.查询保留字" />
       </list>
     </recent_temporary>
@@ -160,6 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748847448433</updated>
       <workItem from="1748847449601" duration="8217000" />
+      <workItem from="1749013553135" duration="72000" />
     </task>
     <servers />
   </component>
@@ -177,6 +175,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="634" y="251" key="FileChooserDialogImpl" timestamp="1749013621871">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="251" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1749013621871" />
     <state width="1663" height="275" key="GridCell.Tab.0.bottom" timestamp="1748855920474">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
