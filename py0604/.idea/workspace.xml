@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.练习">
+  <component name="RunManager">
     <configuration name="选择结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py0604" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,10 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.练习" />
         <item itemvalue="Python.选择结构" />
-        <item itemvalue="Python.组合训练" />
-        <item itemvalue="Python.循环结构" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749013624907</updated>
       <workItem from="1749013626090" duration="10638000" />
+      <workItem from="1749108277762" duration="32000" />
     </task>
     <servers />
   </component>
@@ -144,6 +142,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="634" y="251" key="FileChooserDialogImpl" timestamp="1749108307144">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="251" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1749108307144" />
     <state width="1663" height="275" key="GridCell.Tab.0.bottom" timestamp="1749026690322">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
