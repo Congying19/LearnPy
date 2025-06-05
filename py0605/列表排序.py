@@ -1,0 +1,15 @@
+lst=[1,2,3,4,5,6,7,8,9]
+print(lst)
+lst.sort()
+print(lst)
+lst.sort(reverse=True)
+print(lst)
+lst2=list('adjfaweOFHOFELDFavdsfg')
+print(lst2)
+lst2.sort()
+print(lst2)
+lst2.sort(key=str.lower)
+print(lst2)
+lst3=[23,4523,234,42,432,42,4]
+asc_lst3=sorted(lst3)
+print(asc_lst3)

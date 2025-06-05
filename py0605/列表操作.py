@@ -1,0 +1,9 @@
+lst=['hello','world','python']
+print(lst)
+lst.append('nihao')
+print(lst)
+lst.pop(2)
+print(lst)
+print(lst.pop(2))
+lst2=lst.copy()
+print(lst2)
